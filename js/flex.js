@@ -7,3 +7,6 @@ function fw(valor){
 function fj(valor){
 	document.getElementById('container').style.justifyContent=valor;
 }
+function align(valor){
+	document.getElementById('container').style.alignItems=valor;
+}
